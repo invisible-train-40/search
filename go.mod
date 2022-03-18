@@ -1,4 +1,4 @@
-module github.com/streamingfast/search
+module github.com/dfuse-io/search
 
 go 1.16
 
